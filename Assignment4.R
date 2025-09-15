@@ -5,6 +5,6 @@ if(age < 13){
   print("Teenager")
 } else if(age <= 59 & age >= 20){
   print("Adult")
-}else if(age >= 60){
+} else if(age >= 60){
   print("Senior")
 }
