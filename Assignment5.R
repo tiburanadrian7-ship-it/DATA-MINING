@@ -1,4 +1,4 @@
-sample_num <- c(201,54,73)
+sample_num <- c(20,55,70)
 all <- all(sample_num > 50)
 any <- any(sample_num > 50)
 
